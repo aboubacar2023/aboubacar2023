@@ -7,6 +7,7 @@
   ## Contact 🤝
 - E-mail : aboubacarbane@gmail.com
   ## Languages and Tools 🛠️
-  ![JavaScript](https://img.shields.io/badge/JS)
-  PHP, Laravel, Livewire, JS, Mysql, VScode, Insomnia Rest and others ...
+  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+  ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+   and others ...
 
