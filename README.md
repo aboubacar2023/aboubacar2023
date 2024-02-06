@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aboubacar BANE, a junior developer.
 - 👀 I am interested in the world of web development and mobile.
 - 🌱 I’m currently learning PHP and JS world.
-- 💞️ I'm looking to work on projects in anything related to Laravel, Livewire...
+- 💞️ I'm looking to work on projects in anything related to Laravel, JS, Livewire...
 - 😄 Pronouns: the more we learn, the more we see the extent of our ignorance
 - ⚡ hobbies: coding and Football
   ## Contact 🤝
