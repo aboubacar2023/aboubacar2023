@@ -1,19 +1,43 @@
-- 👋 Hi, I’m Aboubacar BANE, a senior developer.
-- 👀 I am interested in the world of web development and mobile.
-- 💞️ I'm looking to work on projects in anything related to Laravel, JS, Livewire...
-- 😄 Pronouns: the more we learn, the more we see the extent of our ignorance
-- ⚡ hobbies: coding and Football
+# 👋 Hi, I’m Aboubacar BANE.
+- Senior Web Developer passionate about crafting smart and scalable digital solutions.
+- I’m deeply interested in web and mobile development, especially in everything related to PHP (Laravel), and JavaScript ecosystems.
+- I’m constantly learning — because “the more we learn, the more we realize how much we still have to learn.”
+- I love collaborating on innovative projects that make real impact.
+- Hobbies: Coding (obviously 😄) & Football — two passions that teach teamwork, strategy, and persistence.
   ## Contact 🤝
 - E-mail : aboubacarbane@gmail.com
-  ## Languages and Tools 🛠️
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
-  ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-  # Livewire and Others ...
+  ### 🛠️ Languages & Tools  
+
+  <p align="center">
+    <!-- Web Core -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45" style="margin-right:10px; margin-bottom:10px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45" style="margin-right:10px; margin-bottom:10px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45" style="margin-right:10px; margin-bottom:10px;"/>
+  
+    <!-- Backend -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="45" height="45" style="margin-right:10px; margin-bottom:10px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" width="45" height="45" style="margin-right:10px; margin-bottom:10px;"/>
+    <img src="https://img.shields.io/badge/Livewire-%23FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Livewire" height="25" style="margin-right:10px; margin-bottom:10px;"/>
+  
+    <!-- Databases -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45" style="margin-right:10px; margin-bottom:10px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45" style="margin-right:10px; margin-bottom:10px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="45" height="45" style="margin-right:10px; margin-bottom:10px;"/>
+  
+    <!-- Frontend Framework -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="45" height="45" style="margin-right:10px; margin-bottom:10px;"/>
+  
+    <!-- Mobile -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="45" height="45" style="margin-right:10px; margin-bottom:10px;"/>
+  
+    <!-- Tools -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="45" height="45" style="margin-right:10px; margin-bottom:10px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" alt="Insomnia" width="45" height="45" style="margin-right:10px; margin-bottom:10px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" width="45" height="45" style="margin-right:10px; margin-bottom:10px;"/>
+  
+    <!-- Version Control -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45" style="margin-right:10px; margin-bottom:10px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45" height="45" style="margin-right:10px; margin-bottom:10px;"/>
+  </p>
+
 
