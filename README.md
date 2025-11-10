@@ -7,6 +7,7 @@
 - Hobbies: Coding (obviously 😄) & Football — two passions that teach teamwork, strategy, and persistence.
   ## Contact 🤝
 - E-mail : aboubacarbane@gmail.com
+- Portfolio : https://aboubacar-bane-portfolio.netlify.app/
   ### 🛠️ Languages & Tools  
 
   <p align="center">
